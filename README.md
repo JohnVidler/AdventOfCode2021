@@ -1,4 +1,4 @@
-# Advent of Code 2021
+# Advent of Code 2021
 
 My attempts at completing all the advent challenges for 2021 in Javascript (NodeJS).
 
